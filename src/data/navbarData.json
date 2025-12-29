@@ -1,0 +1,2260 @@
+[{
+  "_id": {
+    "$oid": "69523c321fc5563ebe923fc8"
+  },
+  "name": "Services",
+  "slug": "",
+  "index": 1,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [
+    {
+      "name": "Web & Software Development",
+      "slug": "web-software-development",
+      "index": 1,
+      "status": true,
+      "items": [],
+      "subcategories": [
+        {
+          "name": "Business & Enterprise Software Development",
+          "slug": "business-enterprise-software-development",
+          "index": 1,
+          "status": true,
+          "items": [
+            {
+              "name": "ERP Software Development",
+              "slug": "erp-software-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fcb"
+              }
+            },
+            {
+              "name": "HRMS Software Development",
+              "slug": "hrms-software-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fcc"
+              }
+            },
+            {
+              "name": "CRM Software Development",
+              "slug": "crm-software-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fcd"
+              }
+            },
+            {
+              "name": "Accounting & Billing Software",
+              "slug": "accounting-billing-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fce"
+              }
+            },
+            {
+              "name": "POS System Software",
+              "slug": "pos-system-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fcf"
+              }
+            },
+            {
+              "name": "Inventory & Warehouse Management Software",
+              "slug": "inventory-warehouse-management",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd0"
+              }
+            },
+            {
+              "name": "Task Management Software",
+              "slug": "task-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd1"
+              }
+            },
+            {
+              "name": "Project Management Software",
+              "slug": "project-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd2"
+              }
+            },
+            {
+              "name": "Ticketing & Support System",
+              "slug": "ticketing-support-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd3"
+              }
+            },
+            {
+              "name": "Invoice Management Software",
+              "slug": "invoice-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd4"
+              }
+            },
+            {
+              "name": "Employee Tracking Software",
+              "slug": "employee-tracking-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd5"
+              }
+            },
+            {
+              "name": "Attendance Management System",
+              "slug": "attendance-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd6"
+              }
+            },
+            {
+              "name": "Business Analytics & Reporting Solutions",
+              "slug": "business-analytics-reporting",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd7"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe923fca"
+          }
+        },
+        {
+          "name": "Education & Training Software Development",
+          "slug": "education-training-software-development",
+          "index": 2,
+          "status": true,
+          "items": [
+            {
+              "name": "LMS with Live Class Software",
+              "slug": "lms-live-class-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fd9"
+              }
+            },
+            {
+              "name": "School Management Software",
+              "slug": "school-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fda"
+              }
+            },
+            {
+              "name": "University Management System",
+              "slug": "university-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fdb"
+              }
+            },
+            {
+              "name": "Coaching & Tuition Management",
+              "slug": "coaching-tuition-management",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fdc"
+              }
+            },
+            {
+              "name": "Quiz System Software",
+              "slug": "quiz-system-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fdd"
+              }
+            },
+            {
+              "name": "Library Management Software",
+              "slug": "library-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fde"
+              }
+            },
+            {
+              "name": "Hostel Management Software",
+              "slug": "hostel-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fdf"
+              }
+            },
+            {
+              "name": "Mentorship Management System",
+              "slug": "mentorship-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe0"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe923fd8"
+          }
+        },
+        {
+          "name": "Healthcare Software Development",
+          "slug": "healthcare-software-development",
+          "index": 3,
+          "status": true,
+          "items": [
+            {
+              "name": "Clinic Management Software",
+              "slug": "clinic-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe2"
+              }
+            },
+            {
+              "name": "Hospital Management Software",
+              "slug": "hospital-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe3"
+              }
+            },
+            {
+              "name": "Doctor Appointment System",
+              "slug": "doctor-appointment-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe4"
+              }
+            },
+            {
+              "name": "Pharmacy Management Software",
+              "slug": "pharmacy-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe5"
+              }
+            },
+            {
+              "name": "Healthcare ERP Solutions",
+              "slug": "healthcare-erp-solutions",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe6"
+              }
+            },
+            {
+              "name": "Electronic Medical Records (EMR) System",
+              "slug": "electronic-medical-records-emr",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe7"
+              }
+            },
+            {
+              "name": "Telemedicine & Online Consultation Platform",
+              "slug": "telemedicine-online-consultation",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe8"
+              }
+            },
+            {
+              "name": "Laboratory Management Software",
+              "slug": "laboratory-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fe9"
+              }
+            },
+            {
+              "name": "Patient Management System",
+              "slug": "patient-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fea"
+              }
+            },
+            {
+              "name": "Medical Billing & Insurance Claim Software",
+              "slug": "medical-billing-insurance-claim",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923feb"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe923fe1"
+          }
+        },
+        {
+          "name": "Restaurant & Food Service Software Development",
+          "slug": "restaurant-food-service-software",
+          "index": 4,
+          "status": true,
+          "items": [
+            {
+              "name": "Food Delivery Software",
+              "slug": "food-delivery-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fed"
+              }
+            },
+            {
+              "name": "Restaurant POS Software",
+              "slug": "restaurant-pos-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fee"
+              }
+            },
+            {
+              "name": "Restaurant QR Menu Maker",
+              "slug": "restaurant-qr-menu-maker",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fef"
+              }
+            },
+            {
+              "name": "Restaurant Management System",
+              "slug": "restaurant-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff0"
+              }
+            },
+            {
+              "name": "Restaurant ERP Software",
+              "slug": "restaurant-erp-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff1"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe923fec"
+          }
+        },
+        {
+          "name": "Travel & Hospitality Software Development",
+          "slug": "travel-hospitality-software-development",
+          "index": 5,
+          "status": true,
+          "items": [
+            {
+              "name": "Travel Booking Software",
+              "slug": "travel-booking-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff3"
+              }
+            },
+            {
+              "name": "Tour Management Software",
+              "slug": "tour-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff4"
+              }
+            },
+            {
+              "name": "Hotel Management System",
+              "slug": "hotel-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff5"
+              }
+            },
+            {
+              "name": "Room Booking Software",
+              "slug": "room-booking-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff6"
+              }
+            },
+            {
+              "name": "Taxi & Cab Booking Software",
+              "slug": "taxi-cab-booking-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff7"
+              }
+            },
+            {
+              "name": "Car Rental Software",
+              "slug": "car-rental-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff8"
+              }
+            },
+            {
+              "name": "Ride Sharing Software",
+              "slug": "ride-sharing-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ff9"
+              }
+            },
+            {
+              "name": "Lodger / Service Booking App",
+              "slug": "service-booking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ffa"
+              }
+            },
+            {
+              "name": "Logistic & Courier Management Software",
+              "slug": "logistic-courier-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ffb"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe923ff2"
+          }
+        },
+        {
+          "name": "Social Media, OTT & Communication Software",
+          "slug": "social-media-ott-communication-software",
+          "index": 6,
+          "status": true,
+          "items": [
+            {
+              "name": "Social Media Portals",
+              "slug": "social-media-portals",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ffd"
+              }
+            },
+            {
+              "name": "WhatsApp-like Chatting Platform",
+              "slug": "chatting-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923ffe"
+              }
+            },
+            {
+              "name": "YouTube-like Video Streaming Platform",
+              "slug": "video-streaming-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe923fff"
+              }
+            },
+            {
+              "name": "OTT Platform Solutions",
+              "slug": "ott-platform-solutions",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924000"
+              }
+            },
+            {
+              "name": "Audio Podcast Platform",
+              "slug": "audio-podcast-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924001"
+              }
+            },
+            {
+              "name": "Video Conferencing Platform",
+              "slug": "video-conferencing-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924002"
+              }
+            },
+            {
+              "name": "News & Magazine Portal",
+              "slug": "news-magazine-portal",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924003"
+              }
+            },
+            {
+              "name": "Blog Management System",
+              "slug": "blog-management-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924004"
+              }
+            },
+            {
+              "name": "Email Marketing Software",
+              "slug": "email-marketing-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924005"
+              }
+            },
+            {
+              "name": "Telegram Bot Solutions",
+              "slug": "telegram-bot-solutions",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924006"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe923ffc"
+          }
+        },
+        {
+          "name": "Fitness & Wellness Software Development",
+          "slug": "fitness-wellness-software-development",
+          "index": 7,
+          "status": true,
+          "items": [
+            {
+              "name": "Fitness & Gym Management Software",
+              "slug": "gym-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924008"
+              }
+            },
+            {
+              "name": "Personal Trainer & Coaching App",
+              "slug": "trainer-coaching-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924009"
+              }
+            },
+            {
+              "name": "Diet & Nutrition Management App",
+              "slug": "diet-nutrition-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92400a"
+              }
+            },
+            {
+              "name": "Yoga & Wellness App",
+              "slug": "yoga-wellness-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92400b"
+              }
+            },
+            {
+              "name": "Fitness Tracking & Wearable Integration App",
+              "slug": "fitness-tracking-wearable",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92400c"
+              }
+            },
+            {
+              "name": "Membership & Subscription Management Software",
+              "slug": "membership-subscription-management",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92400d"
+              }
+            },
+            {
+              "name": "Workout Plan & Progress Tracking App",
+              "slug": "workout-progress-tracking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92400e"
+              }
+            },
+            {
+              "name": "Fitness Community & Social Platform",
+              "slug": "fitness-community-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92400f"
+              }
+            },
+            {
+              "name": "Online Fitness Class Platform",
+              "slug": "online-fitness-class-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924010"
+              }
+            },
+            {
+              "name": "Appointment & Schedule Management App",
+              "slug": "appointment-schedule-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924011"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924007"
+          }
+        },
+        {
+          "name": "Recharge Portal Software Development",
+          "slug": "recharge-portal-software-development",
+          "index": 8,
+          "status": true,
+          "items": [
+            {
+              "name": "Mobile Recharge Software",
+              "slug": "mobile-recharge-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924013"
+              }
+            },
+            {
+              "name": "Multi Recharge Software",
+              "slug": "multi-recharge-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924014"
+              }
+            },
+            {
+              "name": "BBPS Integration Software",
+              "slug": "bbps-integration-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924015"
+              }
+            },
+            {
+              "name": "B2B Recharge Portal",
+              "slug": "b2b-recharge-portal",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924016"
+              }
+            },
+            {
+              "name": "B2C Recharge Portal",
+              "slug": "b2c-recharge-portal",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924017"
+              }
+            },
+            {
+              "name": "DMT (Domestic Money Transfer)",
+              "slug": "domestic-money-transfer",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924018"
+              }
+            },
+            {
+              "name": "Utility Bill Payment Portal",
+              "slug": "utility-bill-payment-portal",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924019"
+              }
+            },
+            {
+              "name": "API-based Recharge Platform",
+              "slug": "api-recharge-platform",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92401a"
+              }
+            },
+            {
+              "name": "Distributor – Retailer Panel System",
+              "slug": "distributor-retailer-panel-system",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92401b"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924012"
+          }
+        },
+        {
+          "name": "Industry-Specific Software Development",
+          "slug": "industry-specific-software-development",
+          "index": 9,
+          "status": true,
+          "items": [
+            {
+              "name": "Real Estate Software",
+              "slug": "real-estate-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92401d"
+              }
+            },
+            {
+              "name": "Astrology Software",
+              "slug": "astrology-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92401e"
+              }
+            },
+            {
+              "name": "Matrimonial Software",
+              "slug": "matrimonial-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92401f"
+              }
+            },
+            {
+              "name": "Urban Services Software",
+              "slug": "urban-services-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924020"
+              }
+            },
+            {
+              "name": "Event Management Software",
+              "slug": "event-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924021"
+              }
+            },
+            {
+              "name": "Job Portal Software",
+              "slug": "job-portal-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924022"
+              }
+            },
+            {
+              "name": "Loan Management Software",
+              "slug": "loan-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924023"
+              }
+            },
+            {
+              "name": "Courier & Logistics Management Software",
+              "slug": "courier-logistics-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924024"
+              }
+            },
+            {
+              "name": "Vehicle Tracking & Management Software",
+              "slug": "vehicle-tracking-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924025"
+              }
+            },
+            {
+              "name": "Society / Apartment Management Software",
+              "slug": "apartment-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924026"
+              }
+            },
+            {
+              "name": "PG / Hostel Management Software",
+              "slug": "pg-hostel-management-software",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924027"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe92401c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "69523c321fc5563ebe923fc9"
+      }
+    },
+    {
+      "name": "Mobile Application Development",
+      "slug": "mobile-application-development",
+      "index": 2,
+      "status": true,
+      "items": [],
+      "subcategories": [
+        {
+          "name": "Custom Mobile Apps",
+          "slug": "custom-mobile-apps",
+          "index": 1,
+          "status": true,
+          "items": [
+            {
+              "name": "Android App Development",
+              "slug": "android-app-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92402a"
+              }
+            },
+            {
+              "name": "iOS App Development",
+              "slug": "ios-app-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92402b"
+              }
+            },
+            {
+              "name": "Hybrid App Development (Flutter / React Native)",
+              "slug": "hybrid-app-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92402c"
+              }
+            },
+            {
+              "name": "Progressive Web Apps (PWA)",
+              "slug": "progressive-web-apps-pwa",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92402d"
+              }
+            },
+            {
+              "name": "Custom Business App Development",
+              "slug": "custom-business-app-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92402e"
+              }
+            },
+            {
+              "name": "Enterprise Mobile App Development",
+              "slug": "enterprise-mobile-app-development",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92402f"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924029"
+          }
+        },
+        {
+          "name": "E-Commerce & Marketplace Apps",
+          "slug": "ecommerce-marketplace-apps",
+          "index": 2,
+          "status": true,
+          "items": [
+            {
+              "name": "E-Commerce App",
+              "slug": "ecommerce-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924031"
+              }
+            },
+            {
+              "name": "Multi-Vendor Marketplace App",
+              "slug": "multi-vendor-marketplace-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924032"
+              }
+            },
+            {
+              "name": "Grocery Delivery App",
+              "slug": "grocery-delivery-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924033"
+              }
+            },
+            {
+              "name": "Online Shopping App",
+              "slug": "online-shopping-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924034"
+              }
+            },
+            {
+              "name": "Classified / OLX-type App",
+              "slug": "classified-olx-type-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924035"
+              }
+            },
+            {
+              "name": "Store Builder App",
+              "slug": "store-builder-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924036"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924030"
+          }
+        },
+        {
+          "name": "On-Demand Service Apps",
+          "slug": "on-demand-service-apps",
+          "index": 3,
+          "status": true,
+          "items": [
+            {
+              "name": "Urban Services App",
+              "slug": "urban-services-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924038"
+              }
+            },
+            {
+              "name": "AC/Electrician/Plumber Service App",
+              "slug": "home-services-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924039"
+              }
+            },
+            {
+              "name": "Rental App",
+              "slug": "rental-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92403a"
+              }
+            },
+            {
+              "name": "Delivery Boy App",
+              "slug": "delivery-boy-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92403b"
+              }
+            },
+            {
+              "name": "Parcel Delivery / Porter-type App",
+              "slug": "parcel-delivery-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92403c"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924037"
+          }
+        },
+        {
+          "name": "Social Media, OTT & Communication Apps",
+          "slug": "social-media-communication-apps",
+          "index": 4,
+          "status": true,
+          "items": [
+            {
+              "name": "Social Media App",
+              "slug": "social-media-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92403e"
+              }
+            },
+            {
+              "name": "Chatting App",
+              "slug": "chatting-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92403f"
+              }
+            },
+            {
+              "name": "Video Streaming App",
+              "slug": "video-streaming-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924040"
+              }
+            },
+            {
+              "name": "OTT App",
+              "slug": "ott-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924041"
+              }
+            },
+            {
+              "name": "Audio Podcast App",
+              "slug": "audio-podcast-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924042"
+              }
+            },
+            {
+              "name": "Video Conferencing App",
+              "slug": "video-conferencing-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924043"
+              }
+            },
+            {
+              "name": "News & Magazine App",
+              "slug": "news-magazine-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924044"
+              }
+            },
+            {
+              "name": "Blogging App",
+              "slug": "blogging-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924045"
+              }
+            },
+            {
+              "name": "Email Marketing App",
+              "slug": "email-marketing-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924046"
+              }
+            },
+            {
+              "name": "Telegram Bot App",
+              "slug": "telegram-bot-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924047"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe92403d"
+          }
+        },
+        {
+          "name": "Travel & Hospitality Apps",
+          "slug": "travel-hospitality-apps",
+          "index": 5,
+          "status": true,
+          "items": [
+            {
+              "name": "Travel Booking App",
+              "slug": "travel-booking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924049"
+              }
+            },
+            {
+              "name": "Tour Management App",
+              "slug": "tour-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92404a"
+              }
+            },
+            {
+              "name": "Hotel Booking App",
+              "slug": "hotel-booking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92404b"
+              }
+            },
+            {
+              "name": "Room Booking App",
+              "slug": "room-booking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92404c"
+              }
+            },
+            {
+              "name": "Cab Booking App",
+              "slug": "cab-booking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92404d"
+              }
+            },
+            {
+              "name": "Ride Sharing App",
+              "slug": "ride-sharing-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92404e"
+              }
+            },
+            {
+              "name": "Car Rental App",
+              "slug": "car-rental-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92404f"
+              }
+            },
+            {
+              "name": "Courier & Logistics App",
+              "slug": "courier-logistics-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924050"
+              }
+            },
+            {
+              "name": "Vehicle Tracking App",
+              "slug": "vehicle-tracking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924051"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924048"
+          }
+        },
+        {
+          "name": "Healthcare Apps",
+          "slug": "healthcare-apps",
+          "index": 6,
+          "status": true,
+          "items": [
+            {
+              "name": "Doctor Appointment App",
+              "slug": "doctor-appointment-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924053"
+              }
+            },
+            {
+              "name": "Telemedicine Consultation App",
+              "slug": "telemedicine-consultation-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924054"
+              }
+            },
+            {
+              "name": "Clinic / Hospital App",
+              "slug": "clinic-hospital-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924055"
+              }
+            },
+            {
+              "name": "EMR / EHR App",
+              "slug": "emr-ehr-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924056"
+              }
+            },
+            {
+              "name": "Pharmacy Delivery App",
+              "slug": "pharmacy-delivery-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924057"
+              }
+            },
+            {
+              "name": "Laboratory / LIMS App",
+              "slug": "laboratory-lims-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924058"
+              }
+            },
+            {
+              "name": "Patient Monitoring App",
+              "slug": "patient-monitoring-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924059"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924052"
+          }
+        },
+        {
+          "name": "Fitness Apps",
+          "slug": "fitness-apps",
+          "index": 7,
+          "status": true,
+          "items": [
+            {
+              "name": "Fitness & Gym Management App",
+              "slug": "gym-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92405b"
+              }
+            },
+            {
+              "name": "Personal Trainer App",
+              "slug": "personal-trainer-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92405c"
+              }
+            },
+            {
+              "name": "Diet & Nutrition App",
+              "slug": "diet-nutrition-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92405d"
+              }
+            },
+            {
+              "name": "Yoga & Wellness App",
+              "slug": "yoga-wellness-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92405e"
+              }
+            },
+            {
+              "name": "Workout Tracking App",
+              "slug": "workout-tracking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92405f"
+              }
+            },
+            {
+              "name": "Fitness Community App",
+              "slug": "fitness-community-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924060"
+              }
+            },
+            {
+              "name": "Live Fitness Class App",
+              "slug": "live-fitness-class-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924061"
+              }
+            },
+            {
+              "name": "Subscription & Membership App",
+              "slug": "subscription-membership-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924062"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe92405a"
+          }
+        },
+        {
+          "name": "Education & E-Learning Apps",
+          "slug": "education-elearning-apps",
+          "index": 8,
+          "status": true,
+          "items": [
+            {
+              "name": "LMS App with Live Classes",
+              "slug": "lms-app-live-classes",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924064"
+              }
+            },
+            {
+              "name": "School/College App",
+              "slug": "school-college-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924065"
+              }
+            },
+            {
+              "name": "Coaching Institute App",
+              "slug": "coaching-institute-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924066"
+              }
+            },
+            {
+              "name": "Online Exam & Test App",
+              "slug": "online-exam-test-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924067"
+              }
+            },
+            {
+              "name": "E-Book & Study App",
+              "slug": "ebook-study-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924068"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924063"
+          }
+        },
+        {
+          "name": "ERP & Business Management Apps",
+          "slug": "erp-business-management-apps",
+          "index": 9,
+          "status": true,
+          "items": [
+            {
+              "name": "ERP Mobile App",
+              "slug": "erp-mobile-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92406a"
+              }
+            },
+            {
+              "name": "HRMS Mobile App",
+              "slug": "hrms-mobile-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92406b"
+              }
+            },
+            {
+              "name": "CRM Mobile App",
+              "slug": "crm-mobile-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92406c"
+              }
+            },
+            {
+              "name": "Project Management App",
+              "slug": "project-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92406d"
+              }
+            },
+            {
+              "name": "Task Management App",
+              "slug": "task-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92406e"
+              }
+            },
+            {
+              "name": "Attendance & Employee Tracking App",
+              "slug": "attendance-employee-tracking-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92406f"
+              }
+            },
+            {
+              "name": "Invoice & Billing App",
+              "slug": "invoice-billing-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924070"
+              }
+            },
+            {
+              "name": "Business Reporting App",
+              "slug": "business-reporting-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924071"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924069"
+          }
+        },
+        {
+          "name": "FinTech, Wallet & Utility Apps",
+          "slug": "fintech-wallet-utility-apps",
+          "index": 10,
+          "status": true,
+          "items": [
+            {
+              "name": "Mobile Wallet App",
+              "slug": "mobile-wallet-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924073"
+              }
+            },
+            {
+              "name": "Money Transfer App",
+              "slug": "money-transfer-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924074"
+              }
+            },
+            {
+              "name": "Recharge & Bill Payment App",
+              "slug": "recharge-bill-payment-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924075"
+              }
+            },
+            {
+              "name": "Loan Management App",
+              "slug": "loan-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924076"
+              }
+            },
+            {
+              "name": "EMI / Finance Calculator App",
+              "slug": "emi-finance-calculator-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924077"
+              }
+            },
+            {
+              "name": "Tax Filing App",
+              "slug": "tax-filing-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924078"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924072"
+          }
+        },
+        {
+          "name": "Industry-Specific Mobile Applications",
+          "slug": "industry-specific-mobile-apps",
+          "index": 11,
+          "status": true,
+          "items": [
+            {
+              "name": "Real Estate App",
+              "slug": "real-estate-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92407a"
+              }
+            },
+            {
+              "name": "Astrology App",
+              "slug": "astrology-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92407b"
+              }
+            },
+            {
+              "name": "Matrimonial App",
+              "slug": "matrimonial-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92407c"
+              }
+            },
+            {
+              "name": "Home Services App",
+              "slug": "home-services-platform-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92407d"
+              }
+            },
+            {
+              "name": "Event Management App",
+              "slug": "event-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92407e"
+              }
+            },
+            {
+              "name": "Job Portal App",
+              "slug": "job-portal-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92407f"
+              }
+            },
+            {
+              "name": "Courier & Logistics App",
+              "slug": "courier-logistics-app-mobile",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924080"
+              }
+            },
+            {
+              "name": "Vehicle Tracking & Fleet App",
+              "slug": "vehicle-tracking-fleet-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924081"
+              }
+            },
+            {
+              "name": "Society / Apartment App",
+              "slug": "apartment-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924082"
+              }
+            },
+            {
+              "name": "PG / Hostel App",
+              "slug": "pg-hostel-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924083"
+              }
+            },
+            {
+              "name": "Freelance Marketplace App",
+              "slug": "freelance-marketplace-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924084"
+              }
+            },
+            {
+              "name": "Construction Management App",
+              "slug": "construction-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924085"
+              }
+            },
+            {
+              "name": "Manufacturing & Workshop App",
+              "slug": "manufacturing-workshop-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924086"
+              }
+            },
+            {
+              "name": "Business Directory App",
+              "slug": "business-directory-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924087"
+              }
+            },
+            {
+              "name": "Property Listing App",
+              "slug": "property-listing-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924088"
+              }
+            },
+            {
+              "name": "Tiffin Service App",
+              "slug": "tiffin-service-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe924089"
+              }
+            },
+            {
+              "name": "Salon / Spa Appointment App",
+              "slug": "salon-spa-appointment-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92408a"
+              }
+            },
+            {
+              "name": "Dairy & Livestock App",
+              "slug": "dairy-livestock-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92408b"
+              }
+            },
+            {
+              "name": "Donation & Crowdfunding App",
+              "slug": "donation-crowdfunding-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92408c"
+              }
+            },
+            {
+              "name": "Advocate Case Management App",
+              "slug": "advocate-case-management-app",
+              "status": true,
+              "_id": {
+                "$oid": "69523c321fc5563ebe92408d"
+              }
+            }
+          ],
+          "subcategories": [],
+          "_id": {
+            "$oid": "69523c321fc5563ebe924079"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "69523c321fc5563ebe924028"
+      }
+    },
+    {
+      "name": "Blockchain Development",
+      "slug": "blockchain-development",
+      "index": 3,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe92408e"
+      }
+    },
+    {
+      "name": "AI & Automation Services",
+      "slug": "ai-automation-services",
+      "index": 4,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe92408f"
+      }
+    },
+    {
+      "name": "MLM Software Development",
+      "slug": "mlm-software-development",
+      "index": 5,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe924090"
+      }
+    },
+    {
+      "name": "Trading Software Development",
+      "slug": "trading-software-development",
+      "index": 6,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe924091"
+      }
+    },
+    {
+      "name": "Game Development",
+      "slug": "game-development",
+      "index": 7,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe924092"
+      }
+    },
+    {
+      "name": "iGAMING Solutions",
+      "slug": "igaming-solutions",
+      "index": 8,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe924093"
+      }
+    },
+    {
+      "name": "Metaverse Development",
+      "slug": "metaverse-development",
+      "index": 9,
+      "status": true,
+      "items": [],
+      "subcategories": [],
+      "_id": {
+        "$oid": "69523c321fc5563ebe924094"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe924095"
+  },
+  "name": "Industries",
+  "slug": "industries",
+  "index": 2,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe924096"
+  },
+  "name": "Portfolio",
+  "slug": "portfolio",
+  "index": 3,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [
+    {
+      "name": "Web & Software Development Portfolio",
+      "slug": "web-software-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe924097"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Mobile App Portfolio",
+      "slug": "mobile-app-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe924098"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Blockchain Portfolio",
+      "slug": "blockchain-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe924099"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "AI Portfolio",
+      "slug": "ai-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe92409a"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "MLM Portfolio",
+      "slug": "mlm-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe92409b"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Trading Software Portfolio",
+      "slug": "trading-software-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe92409c"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Game Development Portfolio",
+      "slug": "game-development-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe92409d"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Enterprise Software Portfolio",
+      "slug": "enterprise-software-portfolio",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe92409e"
+      },
+      "items": [],
+      "subcategories": []
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe92409f"
+  },
+  "name": "About Us",
+  "slug": "about-us",
+  "index": 4,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [
+    {
+      "name": "About Us",
+      "slug": "about",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a0"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Our Team",
+      "slug": "our-team",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a1"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Why Choose Us",
+      "slug": "why-choose-us",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a2"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Life at MetaBlock",
+      "slug": "life-at-metablock",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a3"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Success Stories (Case Studies)",
+      "slug": "success-stories",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a4"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Testimonials",
+      "slug": "testimonials",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a5"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Reviews",
+      "slug": "reviews",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a6"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Gallery",
+      "slug": "gallery",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a7"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Videos",
+      "slug": "videos",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240a8"
+      },
+      "items": [],
+      "subcategories": []
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe9240a9"
+  },
+  "name": "Insights",
+  "slug": "insights",
+  "index": 5,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [
+    {
+      "name": "Blog",
+      "slug": "blog",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240aa"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Articles",
+      "slug": "articles",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240ab"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Case Studies",
+      "slug": "case-studies",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240ac"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "News",
+      "slug": "news",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240ad"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Research & Whitepapers",
+      "slug": "research-whitepapers",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240ae"
+      },
+      "items": [],
+      "subcategories": []
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe9240af"
+  },
+  "name": "Careers",
+  "slug": "careers",
+  "index": 6,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [
+    {
+      "name": "Current Openings",
+      "slug": "current-openings",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b0"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Internship Program",
+      "slug": "internship-program",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b1"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Apply Now",
+      "slug": "apply-now",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b2"
+      },
+      "items": [],
+      "subcategories": []
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe9240b3"
+  },
+  "name": "Contact Us",
+  "slug": "contact-us",
+  "index": 7,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [
+    {
+      "name": "WhatsApp",
+      "slug": "whatsapp",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b4"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Call",
+      "slug": "call",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b5"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Email",
+      "slug": "email",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b6"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Google Meet",
+      "slug": "google-meet",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b7"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "AI Chat",
+      "slug": "ai-chat",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b8"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "AI Call",
+      "slug": "ai-call",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240b9"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Get Quote",
+      "slug": "get-quote",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240ba"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Request Call Back",
+      "slug": "request-call-back",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240bb"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Download Profile",
+      "slug": "download-profile",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240bc"
+      },
+      "items": [],
+      "subcategories": []
+    },
+    {
+      "name": "Office Locations",
+      "slug": "office-locations",
+      "index": 0,
+      "status": true,
+      "_id": {
+        "$oid": "69523c321fc5563ebe9240bd"
+      },
+      "items": [],
+      "subcategories": []
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69523c321fc5563ebe9240be"
+  },
+  "name": "Get a Quote",
+  "slug": "quote",
+  "index": 8,
+  "status": true,
+  "deletedAt": null,
+  "dateCreated": {
+    "$date": "2025-12-29T08:30:42.529Z"
+  },
+  "dateUpdated": null,
+  "submenu": [],
+  "__v": 0
+}]
