@@ -8,8 +8,8 @@ const MegaMenu = ({ menu }) => {
     if (!menu?.length) return null;
 
     return (
-        <div className="absolute left-0 top-full w-full bg-[#1b2121] border-t border-white/10">
-            <div className="max-w-7xl mx-auto px-10 py-12 grid grid-cols-12 gap-10">
+        <div className="absolute left-0 top-full w-full h-[calc(100vh-25vh)] bg-[#1b2121] border-t border-white/10 overflow-hidden">
+            <div className="max-w-7xl mx-auto px-10 py-6 grid grid-cols-12 gap-10 h-full">
 
                 {/* LEFT STATIC PANEL */}
                 <div className="col-span-3">
@@ -25,7 +25,7 @@ const MegaMenu = ({ menu }) => {
                 </div>
 
                 {/* MIDDLE MENU (Level 2 - Submenu) */}
-                <div className="col-span-3 border-l border-white/10">
+                <div className="col-span-3 border-l border-white/10 overflow-y-auto no-scrollbar">
                     {menu.map(item => (
                         <button
                             key={item._id}
@@ -46,7 +46,7 @@ const MegaMenu = ({ menu }) => {
                 </div>
 
                 {/* MIDDLE-RIGHT PANEL (Level 3 - Subcategories) */}
-                <div className="col-span-3 border-l border-white/10 pl-6">
+                <div className="col-span-3 border-l border-white/10 pl-6 overflow-y-auto no-scrollbar">
                     {activeCategory?.children?.map(subcategory => (
                         <button
                             key={subcategory._id}
@@ -64,7 +64,7 @@ const MegaMenu = ({ menu }) => {
                 </div>
 
                 {/* RIGHT PANEL (Level 4 - Items) */}
-                <div className="col-span-3 pl-6">
+                <div className="col-span-3 pl-6 overflow-y-auto no-scrollbar">
                     {activeSubcategory?.items?.length > 0 && (
                         <ul className="space-y-2">
                             {activeSubcategory.items.map(item => (

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { FiChevronDown, FiChevronRight } from "react-icons/fi";
+import { Plus, Minus } from "lucide-react";
 
 const MobileMenu = ({ menu, isOpen, onClose }) => {
     const [openSubmenu, setOpenSubmenu] = useState(null);
@@ -27,13 +28,13 @@ const MobileMenu = ({ menu, isOpen, onClose }) => {
     if (!isOpen) return null;
 
     return (
-        <div className="lg:hidden fixed inset-0 z-50 bg-black/50" onClick={onClose}>
+        <div className="lg:hidden fixed inset-x-0 top-14 bottom-0 z-50 bg-black/50" onClick={onClose}>
             <div
-                className="absolute right-0 top-0 h-full w-80 bg-[#161c1c] shadow-xl overflow-y-auto"
+                className="absolute right-0 top-0 h-full md:w-80 w-full bg-[#1E2222] shadow-xl overflow-y-auto"
                 onClick={(e) => e.stopPropagation()}
             >
                 {/* Header */}
-                <div className="flex items-center justify-between p-4 border-b border-white/10">
+                {/* <div className="flex items-center justify-between p-4 border-b border-white/10">
                     <h2 className="text-lg font-semibold text-white">Menu</h2>
                     <button
                         onClick={onClose}
@@ -41,7 +42,7 @@ const MobileMenu = ({ menu, isOpen, onClose }) => {
                     >
                         ×
                     </button>
-                </div>
+                </div> */}
 
                 {/* Menu Items */}
                 <div className="p-4">
@@ -61,6 +62,8 @@ const MobileMenu = ({ menu, isOpen, onClose }) => {
                                 )}
                             </button>
 
+                            <hr className="text-gray-600 w-[93%] mx-auto" />
+
                             {/* Level 2: Submenu Items */}
                             {openSubmenu === item._id && item.children?.length > 0 && (
                                 <div className="ml-4 mt-2 space-y-2">
@@ -79,6 +82,9 @@ const MobileMenu = ({ menu, isOpen, onClose }) => {
                                                 )}
                                             </button>
 
+                                            <hr className="text-gray-600 w-[95%] mx-auto" />
+
+
                                             {/* Level 3: Subcategories */}
                                             {openSubcategory === submenu._id && submenu.children?.length > 0 && (
                                                 <div className="ml-4 mt-2 space-y-2">
@@ -87,25 +93,29 @@ const MobileMenu = ({ menu, isOpen, onClose }) => {
                                                             {/* Subcategory Header - Now Clickable */}
                                                             <button
                                                                 onClick={() => toggleItems(subcategory._id)}
-                                                                className="w-full flex items-center justify-between text-xs font-semibold text-white mb-2 hover:text-gray-300 transition-colors"
+                                                                className="w-full flex items-center justify-between text-sm text-left font-normal text-white mb-2 hover:text-gray-300 transition-colors"
                                                             >
                                                                 <span>{subcategory.name}</span>
                                                                 {subcategory.items?.length > 0 && (
-                                                                    <FiChevronDown
-                                                                        className={`transition-transform text-xs ${openItems[subcategory._id] ? "rotate-180" : ""
-                                                                            }`}
-                                                                    />
+                                                                    openItems[subcategory._id] ? (
+                                                                        <Minus className="text-xs" />
+                                                                    ) : (
+                                                                        <Plus className="text-xs" />
+                                                                    )
                                                                 )}
                                                             </button>
 
+                                                            {/* <hr className="text-gray-600 w-[95%] mx-auto" /> */}
+
+
                                                             {/* Level 4: Items - Now Collapsible */}
                                                             {openItems[subcategory._id] && subcategory.items?.length > 0 && (
-                                                                <ul className="space-y-1">
+                                                                <ul className="space-y-1 pl-4">
                                                                     {subcategory.items.map((item) => (
                                                                         <li key={item._id}>
                                                                             <a
                                                                                 href={`/${item.slug}`}
-                                                                                className="block text-xs text-gray-400 hover:text-white py-1 transition-colors"
+                                                                                className="block text-sm text-gray-400 hover:text-white py-1 transition-colors"
                                                                             >
                                                                                 {item.name}
                                                                             </a>
